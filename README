@@ -1,0 +1,6 @@
+# README
+
+来自@johnsmilga （YouTube频道Coding Addict）的15个Pure JS projects。
+
+1. Color Flipper：点击按钮，随机改变背景颜色。
+2. Counter：设置三个按钮，increase、decrease、reset来改变counter的值，并且根据值的范围来改变字体颜色。
